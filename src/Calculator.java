@@ -21,6 +21,7 @@ public class Calculator {
         System.out.println("Result: "+result);
 
 
+//        Scanner input = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = input.nextInt();
         int sum = 0;
